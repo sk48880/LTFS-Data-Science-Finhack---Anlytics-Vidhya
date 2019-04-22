@@ -1,5 +1,6 @@
 # LTFS-Data-Science-Finhack---Anlytics-Vidhya
 
+![Capture](https://user-images.githubusercontent.com/21193878/56485800-185ba300-64f3-11e9-9b61-149f2ac47b2d.PNG)
 
 
 # About LTFS Data Science FinHack ( ML Hackathon)
