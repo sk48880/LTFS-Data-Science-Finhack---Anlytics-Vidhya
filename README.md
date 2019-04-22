@@ -9,5 +9,5 @@ In this FinHack, you will develop a model for our most common but real challenge
 
  If your solution adds good value to our organization, take it from us, Sky is the limit for you!
  
-Public Leaderboard: 39th Rank : 0.6644 AUC
-Private Leaderboard: 36th Rank : 0.6678 AUC
+# Public Leaderboard: 39th Rank : 0.6644 AUC
+# Private Leaderboard: 36th Rank : 0.6678 AUC
