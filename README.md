@@ -39,4 +39,4 @@ Public and Private Split
 Test data is further randomly divided into Public (25%) and Private (75%) data. Your initial responses will be checked and scored on the Public data. The final rankings would be based on your private score which will be published once the competition is over.
  
 # Public Leaderboard Rank: 39/1342 : 0.6644 AUC
-# Private Leaderboard Rank: 36/1342 : 0.6678 AUC
+# Private Leaderboard Rank: 34/1342 : 0.6678 AUC
